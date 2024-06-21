@@ -1,0 +1,61 @@
+<html>
+     
+     <head>
+	 <title> Sesion9: JavaScript</title>
+	 <link rel="stylesheet" href="css/MyStilo.css"/>
+	  </head>
+	 
+     <body>  
+	<div>
+	<p>
+     <fieldset>
+	 <legend>Ingrese dos numeros</legend>
+	 <label for="">Numero 1:</label>
+	 <input type="number" id="txN1">
+	 <br></br>
+	 <label for="">Numero 2:</label>
+	 <input type="number" id="txN2">
+	 <br></br>
+	 <input type="submit" onclick="sumar();" value="calcular">
+	 <input type="reset" value="calcelar"/>
+     </fieldset>
+	 </p>
+	 <p>
+	  <fieldset>
+	 <legend>Validar Contraseña</legend>
+	 <label for="">Usuario:</label>
+	 <input type="tex" id="txtUsu">
+	 <br></br>
+	 <label for="">Clave:</label>
+	 <input type="Password" id="txtpw">
+	 <br></br>
+	 <input type="submit" onclick="validar();" value="calcular">
+	 <input type="reset" value="calcelar"/>
+     </fieldset>
+	 </p>
+	 </div>
+		 </body>
+    
+	<script>
+     function sumar() {
+	 var n1 = document.getElementById('txN1').value;
+	 var n2 = document.getElementById('txN2').value;
+	 var suma = parseInt(n1) + parseInt(n2);
+	 alert("La suma es: "+suma);
+	 }
+        
+     </script>
+	 
+	   
+	<script>
+     function validar() {
+	 var Usu = document.getElementById('txtUsu').value;
+	 var pw = document.getElementById('txtpw').value;
+	 if(Usu=='leo? & pw=='123')
+	 alert("Bienvenido");
+	 document.location.href="https:www.sanagustin.edu.co"
+	 }
+        
+     </script>
+	 
+</html>

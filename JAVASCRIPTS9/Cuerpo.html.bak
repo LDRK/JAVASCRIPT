@@ -1,0 +1,82 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>KALI LINUX</title>
+<link rel="shortcut icon" href="img/linux.png" />
+<link rel="stylesheet" href="css/Mystilo.css">
+</head>
+<body>
+<div id="titulo">
+<h1>CIBERSEGURIDAD</h1>
+
+</div>
+<div id="menu">
+<div id="op">
+<UL ID="opciones">
+
+<li><A href="">INICIO</A>
+<ul>
+<li><A href="#informes">Seguridad</A></li>
+<li><A href="">Redes</A></li>
+<li><A href="">Ataques</A></li>
+</ul>
+</li>
+<li><A href="">DARKST</A>
+<ul>
+<li><A href="">Git</A></li>
+<li><A href="">Crul</A></li>
+<li><A href="">Comandos</A></li>
+</ul>
+</li>
+<li><A href="">MAS</A>
+<ul>
+<li><A href="https://www.youtube.com/watch?v=GbxpzonOl7U">Video</A></li>
+<li><A href="https://www.google.com/search?q=kali+linux&tbm=
+isch&ved=2ahUKEwjC5Pzshr33AhWDc98KHecNAyIQ2-cCegQIABAA&oq=k&gs_
+lcp=CgNpbWcQARgAMgcIIxDvAxAnMgcIIxDvAxAnMgQIABBDMgQIABBDMggIABC
+ABBCxAzIICAAQgAQQsQMyCAgAEIAEELEDMggIABCABBCxAzIFCAAQgAQyCAgAEIA
+EELEDOgcIABCxAxBDOgoIIxDvAxDqAhAnUL4FWOMzYIA-aAFwAHgAgAHLAYgBuweS
+AQUwLjUuMZgBAKABAaoBC2d3cy13aXotaW1nsAEKwAEB&sclient=img&ei=aNVtY
+sKQNIPn_Qbnm4yQAg&bih=625&biw=1366&rlz=1C1UEAD_esCO999CO999">Foto</A></li>
+</ul>
+</li>
+<li><A href="">CONTACTANOS</A>
+</li>
+
+</UL>
+</div>
+</div>
+<div id="contenido">
+<div id="imagen1">
+<img src="IMG/kali_linux_logo.PNG"  height=200px; width=1139px />
+</div>
+</div>
+<div id="informes">
+<div id="art1">
+<h2>La seguridad informática, también conocida como ciberseguridad,
+es el área relacionada con la informática y la telemática que se enfoca en la protección 
+de la infraestructura computacional y todo lo vinculado con la misma, y especialmente
+la información contenida en una computadora o circulante a través de las redes de 
+computadoras.</H2>
+</div>
+<div id="art3">
+<h2>Kali Linux es una distribución basada en Debian GNU/Linux 
+diseñada principalmente para la auditoría y seguridad informática en general. 
+Fue fundada y es mantenida por Offensive Security Ltd. Mati Aharoni y Devon Kearns,
+ambos pertenecientes al equipo de Offensive Security, desarrollaron la 
+distribución a partir de la reescritura de BackTrack.</H2>
+</div>
+</div>
+<br>
+<div>
+<a href="https://www.facebook.com"><img id="img1" src="img/facebook.png"  width="50" height="50"  /></a>
+<a href="https://www.google.com"  ><img id="img2" src="img/google.png"    width="50" height="50"  /></a>
+<a href="https://www.twitter.com" ><img id="img3" src="img/twitter.png"   width="50" height="50" /></a>
+</div>
+<div id="pie">
+<H2>@LeonardoDZ | Desing°</H2>
+</div>
+
+</body>
+</html>
+

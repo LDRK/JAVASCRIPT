@@ -1,0 +1,12 @@
+.field{
+	background-color:blue;
+	text-align:center;
+	font-family:Tahoma,comic sans Ms;
+	font-size:28pt;
+	margin:0 0 0 0px;
+
+}
+.btn{
+	background-color:rgb(10,84,209);
+	border-radius:10pt;	
+}
